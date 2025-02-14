@@ -3,6 +3,5 @@ pandas
 numpy<2
 matplotlib
 seaborn
-distutils
 pandas-datareader
 scikit-learn
